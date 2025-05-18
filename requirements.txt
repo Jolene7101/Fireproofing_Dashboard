@@ -1,0 +1,10 @@
+streamlit
+feedparser
+pytrends
+pandas
+altair
+vega_datasets
+python-dateutil
+pytz
+plotly
+fpdf
